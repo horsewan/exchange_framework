@@ -2,7 +2,7 @@ package com.zwan.bitrade.controller;
 
 import com.zwan.bitrade.entity.RealTimeChatMessage;
 
-import cn.ztuo.bitrade.entity.*;
+import com.zwan.bitrade.entity.*;
 import com.zwan.bitrade.handler.NettyHandler;
 import lombok.extern.slf4j.Slf4j;
 import org.slf4j.Logger;

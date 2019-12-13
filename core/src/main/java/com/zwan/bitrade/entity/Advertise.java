@@ -2,11 +2,10 @@ package com.zwan.bitrade.entity;
 
 import cn.afterturn.easypoi.excel.annotation.Excel;
 import cn.afterturn.easypoi.excel.annotation.ExcelEntity;
-import cn.ztuo.bitrade.constant.*;
+import com.zwan.bitrade.constant.*;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 
-import com.zwan.bitrade.constant.*;
 import lombok.Data;
 import org.hibernate.annotations.CreationTimestamp;
 import org.hibernate.annotations.UpdateTimestamp;

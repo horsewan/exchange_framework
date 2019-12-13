@@ -4,7 +4,7 @@ import com.querydsl.core.types.dsl.BooleanExpression;
 import com.zwan.bitrade.ability.ScreenAbility;
 import com.zwan.bitrade.constant.Platform;
 
-import cn.ztuo.bitrade.entity.QAppRevision;
+import com.zwan.bitrade.entity.QAppRevision;
 import lombok.Data;
 import org.apache.commons.lang3.StringUtils;
 

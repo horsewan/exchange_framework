@@ -19,7 +19,7 @@ import com.zwan.bitrade.util.PredicateUtils;
 import com.zwan.bitrade.vo.PromotionMemberVO;
 import com.zwan.bitrade.vo.RegisterPromotionVO;
 
-import cn.ztuo.bitrade.entity.QMember;
+import com.zwan.bitrade.entity.QMember;
 import com.zwan.bitrade.model.MemberPromotionScreen;
 
 import org.apache.shiro.authz.annotation.RequiresPermissions;

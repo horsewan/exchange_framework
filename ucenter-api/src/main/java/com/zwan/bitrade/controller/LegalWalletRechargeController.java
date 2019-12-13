@@ -5,7 +5,7 @@ import com.querydsl.core.types.dsl.BooleanExpression;
 import com.zwan.bitrade.constant.LegalWalletState;
 import com.zwan.bitrade.constant.PageModel;
 import com.zwan.bitrade.controller.screen.LegalWalletScreen;
-import cn.ztuo.bitrade.entity.*;
+import com.zwan.bitrade.entity.*;
 import com.zwan.bitrade.entity.LegalWalletRechargeModel;
 import com.zwan.bitrade.entity.transform.AuthMember;
 import com.zwan.bitrade.service.CoinService;

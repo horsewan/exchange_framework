@@ -6,7 +6,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
 import com.zwan.bitrade.dao.WebsiteInformationDao;
-import cn.ztuo.bitrade.entity.QWebsiteInformation;
+import com.zwan.bitrade.entity.QWebsiteInformation;
 import com.zwan.bitrade.entity.WebsiteInformation;
 
 /**

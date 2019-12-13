@@ -13,7 +13,7 @@ import com.zwan.bitrade.util.MessageResult;
 import com.zwan.bitrade.util.PredicateUtils;
 
 import com.zwan.bitrade.controller.common.BaseAdminController;
-import cn.ztuo.bitrade.entity.QLegalWalletRecharge;
+import com.zwan.bitrade.entity.QLegalWalletRecharge;
 import com.zwan.bitrade.model.screen.LegalWalletRechargeScreen;
 
 import org.apache.commons.lang3.StringUtils;

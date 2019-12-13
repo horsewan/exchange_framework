@@ -23,7 +23,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.ArrayList;
 import java.util.List;
 
-import static cn.ztuo.bitrade.entity.QMemberApplication.memberApplication;
+import static com.zwan.bitrade.entity.QMemberApplication.memberApplication;
 import static org.springframework.util.Assert.notNull;
 
 /**

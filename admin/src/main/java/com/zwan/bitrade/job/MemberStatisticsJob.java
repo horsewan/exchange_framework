@@ -1,7 +1,7 @@
 package com.zwan.bitrade.job;
 
 import com.zwan.bitrade.constant.TransactionTypeEnum;
-import cn.ztuo.bitrade.dao.*;
+import com.zwan.bitrade.dao.*;
 import com.zwan.bitrade.dao.*;
 import com.zwan.bitrade.entity.ExchangeTurnoverStatistics;
 import com.zwan.bitrade.entity.MemberLog;

@@ -10,7 +10,7 @@ import com.zwan.bitrade.service.RewardActivitySettingService;
 import com.zwan.bitrade.util.MessageResult;
 
 import com.zwan.bitrade.controller.common.BaseAdminController;
-import cn.ztuo.bitrade.entity.QRewardActivitySetting;
+import com.zwan.bitrade.entity.QRewardActivitySetting;
 
 import org.apache.shiro.authz.annotation.RequiresPermissions;
 import org.springframework.beans.factory.annotation.Autowired;

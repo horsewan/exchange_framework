@@ -11,8 +11,8 @@ import com.zwan.bitrade.util.MessageResult;
 import com.zwan.bitrade.vo.MemberDepositVO;
 
 import com.zwan.bitrade.controller.common.BaseAdminController;
-import cn.ztuo.bitrade.entity.QMember;
-import cn.ztuo.bitrade.entity.QMemberDeposit;
+import com.zwan.bitrade.entity.QMember;
+import com.zwan.bitrade.entity.QMemberDeposit;
 import com.zwan.bitrade.model.screen.MemberDepositScreen;
 
 import org.apache.shiro.authz.annotation.RequiresPermissions;

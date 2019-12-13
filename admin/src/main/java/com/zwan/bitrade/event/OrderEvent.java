@@ -4,7 +4,7 @@ import com.alibaba.fastjson.JSONObject;
 import com.zwan.bitrade.constant.PromotionRewardType;
 import com.zwan.bitrade.constant.RewardRecordType;
 import com.zwan.bitrade.dao.MemberDao;
-import cn.ztuo.bitrade.entity.*;
+import com.zwan.bitrade.entity.*;
 import com.zwan.bitrade.entity.*;
 import com.zwan.bitrade.service.MemberWalletService;
 import com.zwan.bitrade.service.RewardPromotionSettingService;

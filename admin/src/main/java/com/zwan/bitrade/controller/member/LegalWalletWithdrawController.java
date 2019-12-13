@@ -12,7 +12,7 @@ import com.zwan.bitrade.util.MessageResult;
 import com.zwan.bitrade.util.PredicateUtils;
 
 import com.zwan.bitrade.controller.common.BaseAdminController;
-import cn.ztuo.bitrade.entity.QLegalWalletWithdraw;
+import com.zwan.bitrade.entity.QLegalWalletWithdraw;
 import com.zwan.bitrade.model.screen.LegalWalletWithdrawScreen;
 
 import org.apache.commons.lang3.StringUtils;

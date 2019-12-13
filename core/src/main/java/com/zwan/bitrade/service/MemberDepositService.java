@@ -8,8 +8,8 @@ import com.querydsl.jpa.impl.JPAQuery;
 import com.zwan.bitrade.constant.PageModel;
 import com.zwan.bitrade.dao.MemberDepositDao;
 import com.zwan.bitrade.entity.MemberDeposit;
-import cn.ztuo.bitrade.entity.QMember;
-import cn.ztuo.bitrade.entity.QMemberDeposit;
+import com.zwan.bitrade.entity.QMember;
+import com.zwan.bitrade.entity.QMemberDeposit;
 import com.zwan.bitrade.service.Base.BaseService;
 import com.zwan.bitrade.vo.MemberDepositVO;
 

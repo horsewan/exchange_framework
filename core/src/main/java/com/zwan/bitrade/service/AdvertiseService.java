@@ -1,6 +1,6 @@
 package com.zwan.bitrade.service;
 
-import static cn.ztuo.bitrade.entity.QAdvertise.advertise;
+import static com.zwan.bitrade.entity.QAdvertise.advertise;
 import static com.zwan.bitrade.util.BigDecimalUtils.mulRound;
 import static com.zwan.bitrade.util.BigDecimalUtils.rate;
 

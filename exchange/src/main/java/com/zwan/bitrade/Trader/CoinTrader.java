@@ -2,9 +2,8 @@ package com.zwan.bitrade.Trader;
 
 import com.alibaba.fastjson.JSON;
 
-import cn.ztuo.bitrade.entity.*;
-
 import com.zwan.bitrade.entity.*;
+
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.kafka.core.KafkaTemplate;

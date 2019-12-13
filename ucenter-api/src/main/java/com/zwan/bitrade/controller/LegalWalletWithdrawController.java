@@ -4,7 +4,7 @@ import com.querydsl.core.types.dsl.BooleanExpression;
 
 import com.zwan.bitrade.constant.PageModel;
 import com.zwan.bitrade.constant.WithdrawStatus;
-import cn.ztuo.bitrade.entity.*;
+import com.zwan.bitrade.entity.*;
 import com.zwan.bitrade.entity.*;
 import com.zwan.bitrade.entity.transform.AuthMember;
 import com.zwan.bitrade.service.CoinService;

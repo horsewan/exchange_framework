@@ -4,7 +4,7 @@ import com.querydsl.core.types.dsl.BooleanExpression;
 
 import com.zwan.bitrade.ability.ScreenAbility;
 import com.zwan.bitrade.constant.AdvertiseControlStatus;
-import cn.ztuo.bitrade.entity.QAdvertise;
+import com.zwan.bitrade.entity.QAdvertise;
 import lombok.Data;
 
 import java.util.ArrayList;

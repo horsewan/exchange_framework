@@ -12,7 +12,7 @@ import com.zwan.bitrade.service.LocaleMessageSourceService;
 import com.zwan.bitrade.util.MessageResult;
 import com.zwan.bitrade.util.PredicateUtils;
 
-import cn.ztuo.bitrade.entity.QAnnouncement;
+import com.zwan.bitrade.entity.QAnnouncement;
 
 import org.apache.shiro.authz.annotation.RequiresPermissions;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -14,7 +14,7 @@ import com.zwan.bitrade.constant.TransactionType;
 import com.zwan.bitrade.dao.ExchangeOrderDetailRepository;
 import com.zwan.bitrade.dao.ExchangeOrderRepository;
 import com.zwan.bitrade.dao.OrderDetailAggregationRepository;
-import cn.ztuo.bitrade.entity.*;
+import com.zwan.bitrade.entity.*;
 import com.zwan.bitrade.pagination.Criteria;
 import com.zwan.bitrade.pagination.PageResult;
 import com.zwan.bitrade.pagination.Restrictions;

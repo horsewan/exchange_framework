@@ -10,10 +10,10 @@ import com.zwan.bitrade.constant.SysAdvertiseLocation;
 import com.zwan.bitrade.entity.SysAdvertise;
 import com.zwan.bitrade.service.LocaleMessageSourceService;
 import com.zwan.bitrade.service.SysAdvertiseService;
-import cn.ztuo.bitrade.util.*;
+import com.zwan.bitrade.util.*;
 
 import com.zwan.bitrade.controller.common.BaseAdminController;
-import cn.ztuo.bitrade.entity.QSysAdvertise;
+import com.zwan.bitrade.entity.QSysAdvertise;
 import com.zwan.bitrade.model.screen.SysAdvertiseScreen;
 import com.zwan.bitrade.util.*;
 import lombok.extern.slf4j.Slf4j;
@@ -33,7 +33,7 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
-import static cn.ztuo.bitrade.entity.QSysAdvertise.sysAdvertise;
+import static com.zwan.bitrade.entity.QSysAdvertise.sysAdvertise;
 import static org.springframework.util.Assert.notNull;
 
 /**

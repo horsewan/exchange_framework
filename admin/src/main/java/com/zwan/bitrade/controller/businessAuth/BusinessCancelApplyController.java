@@ -39,7 +39,7 @@ import com.zwan.bitrade.entity.BusinessCancelApply;
 import com.zwan.bitrade.entity.DepositRecord;
 import com.zwan.bitrade.entity.Member;
 import com.zwan.bitrade.entity.MemberWallet;
-import cn.ztuo.bitrade.entity.QBusinessCancelApply;
+import com.zwan.bitrade.entity.QBusinessCancelApply;
 import com.zwan.bitrade.service.BusinessAuthApplyService;
 import com.zwan.bitrade.service.BusinessCancelApplyService;
 import com.zwan.bitrade.service.DepositRecordService;

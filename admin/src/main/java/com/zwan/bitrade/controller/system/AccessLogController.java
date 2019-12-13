@@ -10,8 +10,8 @@ import com.zwan.bitrade.service.AdminService;
 import com.zwan.bitrade.util.MessageResult;
 
 import com.zwan.bitrade.controller.common.BaseAdminController;
-import cn.ztuo.bitrade.entity.QAdmin;
-import cn.ztuo.bitrade.entity.QAdminAccessLog;
+import com.zwan.bitrade.entity.QAdmin;
+import com.zwan.bitrade.entity.QAdminAccessLog;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.shiro.authz.annotation.RequiresPermissions;
 import org.springframework.beans.factory.annotation.Autowired;

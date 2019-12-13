@@ -6,7 +6,7 @@ import com.querydsl.jpa.impl.JPAQuery;
 
 import com.zwan.bitrade.constant.SysHelpClassification;
 import com.zwan.bitrade.dao.SysHelpDao;
-import cn.ztuo.bitrade.entity.QSysHelp;
+import com.zwan.bitrade.entity.QSysHelp;
 import com.zwan.bitrade.entity.SysHelp;
 import com.zwan.bitrade.pagination.PageResult;
 import com.zwan.bitrade.service.Base.BaseService;
@@ -24,7 +24,7 @@ import javax.persistence.criteria.CriteriaBuilder;
 import javax.persistence.criteria.CriteriaQuery;
 import javax.persistence.criteria.Root;
 
-import static cn.ztuo.bitrade.entity.QSysAdvertise.sysAdvertise;
+import static com.zwan.bitrade.entity.QSysAdvertise.sysAdvertise;
 
 import java.util.ArrayList;
 import java.util.List;

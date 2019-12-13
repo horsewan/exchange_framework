@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
         <artifactId>bitrade-parent</artifactId>
-        <groupId>cn.ztuo.bitrade</groupId >
+        <groupId>com.zwan.bitrade</groupId >
         <version>1.0</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
@@ -95,12 +95,12 @@
         </dependency>
         <!-- shiro spring. -->
         <dependency>
-            <groupId>cn.ztuo.bitrade</groupId>
+            <groupId>com.zwan.bitrade</groupId>
             <artifactId>exchange-core</artifactId>
             <version>1.0</version>
         </dependency>
         <dependency>
-            <groupId>cn.ztuo.bitrade</groupId>
+            <groupId>com.zwan.bitrade</groupId>
             <artifactId>core</artifactId>
             <version>1.0</version>
         </dependency>

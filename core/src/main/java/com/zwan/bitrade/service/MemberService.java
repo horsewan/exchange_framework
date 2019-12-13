@@ -9,7 +9,7 @@ import com.zwan.bitrade.constant.CommonStatus;
 import com.zwan.bitrade.dao.MemberDao;
 import com.zwan.bitrade.dao.MemberSignRecordDao;
 import com.zwan.bitrade.dao.MemberTransactionDao;
-import cn.ztuo.bitrade.entity.*;
+import com.zwan.bitrade.entity.*;
 import com.zwan.bitrade.entity.*;
 import com.zwan.bitrade.exception.AuthenticationException;
 import com.zwan.bitrade.pagination.Criteria;

@@ -35,7 +35,7 @@ public class KafkaProducerConfiguration {
 		props.put(ProducerConfig.BATCH_SIZE_CONFIG, batchSize);
 		props.put(ProducerConfig.LINGER_MS_CONFIG, linger);
 		props.put(ProducerConfig.BUFFER_MEMORY_CONFIG, bufferMemory);
-//		props.put(ProducerConfig.PARTITIONER_CLASS_CONFIG, "cn.ztuo.bitrade.kafka.kafkaPartitioner");
+//		props.put(ProducerConfig.PARTITIONER_CLASS_CONFIG, "com.zwan.bitrade.kafka.kafkaPartitioner");
 		props.put(ProducerConfig.KEY_SERIALIZER_CLASS_CONFIG, StringSerializer.class);
 		props.put(ProducerConfig.VALUE_SERIALIZER_CLASS_CONFIG, StringSerializer.class);
 		return props;

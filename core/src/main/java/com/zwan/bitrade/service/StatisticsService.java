@@ -6,7 +6,7 @@ import org.springframework.stereotype.Service;
 
 import com.zwan.bitrade.dao.MemberDao;
 import com.zwan.bitrade.dao.OrderDao;
-import cn.ztuo.bitrade.entity.QMember;
+import com.zwan.bitrade.entity.QMember;
 import com.zwan.bitrade.service.Base.BaseService;
 import com.zwan.bitrade.util.DateUtil;
 import com.zwan.bitrade.util.EnumHelperUtil;

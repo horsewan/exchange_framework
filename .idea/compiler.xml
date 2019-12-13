@@ -8,17 +8,17 @@
         <outputRelativeToContentRoot value="true" />
         <module name="otc-api" />
         <module name="cloud" />
-        <module name="ucenter-api" />
-        <module name="otc-core" />
-        <module name="market" />
-        <module name="exchange" />
         <module name="bitrade-job" />
-        <module name="core" />
-        <module name="wallet" />
         <module name="exchange-api" />
         <module name="exchange-core" />
-        <module name="chat" />
+        <module name="ucenter-api" />
         <module name="admin" />
+        <module name="otc-core" />
+        <module name="exchange" />
+        <module name="wallet" />
+        <module name="market" />
+        <module name="chat" />
+        <module name="core" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -37,5 +37,22 @@
       <module name="ucenter-api" target="1.8" />
       <module name="wallet" target="1.8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="admin" options="" />
+      <module name="bitrade-job" options="" />
+      <module name="chat" options="" />
+      <module name="cloud" options="" />
+      <module name="core" options="" />
+      <module name="exchange" options="" />
+      <module name="exchange-api" options="" />
+      <module name="exchange-core" options="" />
+      <module name="market" options="" />
+      <module name="otc-api" options="" />
+      <module name="otc-core" options="" />
+      <module name="ucenter-api" options="" />
+      <module name="wallet" options="" />
+    </option>
   </component>
 </project>

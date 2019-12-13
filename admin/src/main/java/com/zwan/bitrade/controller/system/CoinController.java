@@ -13,10 +13,10 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.validation.Valid;
 
-import cn.ztuo.bitrade.util.*;
+import com.zwan.bitrade.util.*;
 
 import com.zwan.bitrade.controller.common.BaseAdminController;
-import cn.ztuo.bitrade.entity.QHotTransferRecord;
+import com.zwan.bitrade.entity.QHotTransferRecord;
 
 import com.zwan.bitrade.util.*;
 import org.apache.commons.httpclient.HttpClient;

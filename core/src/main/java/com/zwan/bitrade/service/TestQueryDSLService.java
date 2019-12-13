@@ -5,7 +5,7 @@ import com.querydsl.jpa.impl.JPAQueryFactory;
 
 import com.zwan.bitrade.dao.AdvertiseDao;
 import com.zwan.bitrade.entity.Advertise;
-import cn.ztuo.bitrade.entity.QAdvertise;
+import com.zwan.bitrade.entity.QAdvertise;
 import com.zwan.bitrade.pagination.Criteria;
 import com.zwan.bitrade.service.Base.BaseService;
 

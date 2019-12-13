@@ -4,16 +4,14 @@ import com.alibaba.fastjson.JSONObject;
 import com.querydsl.core.types.Predicate;
 import com.querydsl.jpa.impl.JPAQuery;
 
-import cn.ztuo.bitrade.constant.*;
+import com.zwan.bitrade.constant.*;
 import com.zwan.bitrade.dao.MemberApplicationDao;
 import com.zwan.bitrade.dao.MemberDao;
-import cn.ztuo.bitrade.entity.*;
 import com.zwan.bitrade.entity.*;
 import com.zwan.bitrade.es.ESUtils;
 import com.zwan.bitrade.pagination.PageResult;
 import com.zwan.bitrade.service.Base.BaseService;
 import com.zwan.bitrade.util.BigDecimalUtils;
-import com.zwan.bitrade.constant.*;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
@@ -22,7 +20,7 @@ import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import static cn.ztuo.bitrade.entity.QMemberApplication.memberApplication;
+import static com.zwan.bitrade.entity.QMemberApplication.memberApplication;
 
 import java.math.BigDecimal;
 import java.util.Date;

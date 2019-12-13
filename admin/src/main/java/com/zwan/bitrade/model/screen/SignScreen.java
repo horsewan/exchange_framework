@@ -3,7 +3,7 @@ package com.zwan.bitrade.model.screen;
 import com.querydsl.core.types.dsl.BooleanExpression;
 import com.zwan.bitrade.ability.ScreenAbility;
 
-import cn.ztuo.bitrade.entity.QSign;
+import com.zwan.bitrade.entity.QSign;
 import lombok.Data;
 import org.apache.commons.lang3.StringUtils;
 

@@ -3,7 +3,7 @@ package com.zwan.bitrade.service;
 import com.zwan.bitrade.constant.BooleanEnum;
 import com.zwan.bitrade.constant.PromotionRewardType;
 import com.zwan.bitrade.dao.RewardPromotionSettingDao;
-import cn.ztuo.bitrade.entity.QRewardPromotionSetting;
+import com.zwan.bitrade.entity.QRewardPromotionSetting;
 import com.zwan.bitrade.entity.RewardPromotionSetting;
 import com.zwan.bitrade.service.Base.TopBaseService;
 

@@ -1,7 +1,7 @@
 package com.zwan.bitrade;
 
 import com.zwan.bitrade.Trader.CoinTrader;
-import cn.ztuo.bitrade.entity.*;
+import com.zwan.bitrade.entity.*;
 
 import com.zwan.bitrade.entity.ExchangeOrder;
 import com.zwan.bitrade.entity.ExchangeOrderDirection;

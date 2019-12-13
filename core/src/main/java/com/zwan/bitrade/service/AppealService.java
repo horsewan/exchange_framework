@@ -24,7 +24,7 @@ import com.zwan.bitrade.dao.MemberDao;
 import com.zwan.bitrade.entity.Appeal;
 import com.zwan.bitrade.entity.Member;
 import com.zwan.bitrade.entity.Order;
-import cn.ztuo.bitrade.entity.QAppeal;
+import com.zwan.bitrade.entity.QAppeal;
 import com.zwan.bitrade.vo.AppealVO;
 
 /**

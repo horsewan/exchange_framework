@@ -1,4 +1,4 @@
-// package cn.ztuo.bitrade.config;
+// package com.zwan.bitrade.config;
 
 // import org.springframework.beans.factory.annotation.Value;
 // import org.springframework.context.annotation.Configuration;

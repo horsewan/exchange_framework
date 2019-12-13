@@ -6,7 +6,7 @@ import com.querydsl.core.types.Predicate;
 
 import com.zwan.bitrade.constant.SysConstant;
 import com.zwan.bitrade.entity.Announcement;
-import cn.ztuo.bitrade.entity.QAnnouncement;
+import com.zwan.bitrade.entity.QAnnouncement;
 import com.zwan.bitrade.pagination.PageResult;
 import com.zwan.bitrade.service.AnnouncementService;
 import com.zwan.bitrade.util.MessageResult;

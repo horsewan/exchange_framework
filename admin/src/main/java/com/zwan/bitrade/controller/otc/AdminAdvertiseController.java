@@ -15,7 +15,7 @@ import com.zwan.bitrade.util.MessageResult;
 import com.zwan.bitrade.util.PredicateUtils;
 
 import com.zwan.bitrade.controller.common.BaseAdminController;
-import cn.ztuo.bitrade.entity.QAdvertise;
+import com.zwan.bitrade.entity.QAdvertise;
 import com.zwan.bitrade.model.screen.AdvertiseScreen;
 
 import org.apache.commons.lang3.StringUtils;

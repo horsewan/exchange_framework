@@ -12,7 +12,7 @@ import com.zwan.bitrade.dao.OtcCoinDao;
 import com.zwan.bitrade.dto.CoinDTO;
 import com.zwan.bitrade.entity.Coin;
 import com.zwan.bitrade.entity.OtcCoin;
-import cn.ztuo.bitrade.entity.QCoin;
+import com.zwan.bitrade.entity.QCoin;
 import com.zwan.bitrade.pagination.Criteria;
 import com.zwan.bitrade.pagination.PageResult;
 import com.zwan.bitrade.service.Base.BaseService;

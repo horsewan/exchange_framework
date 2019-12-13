@@ -6,7 +6,7 @@ import com.zwan.bitrade.constant.WithdrawStatus;
 import com.zwan.bitrade.dao.LegalWalletWithdrawDao;
 import com.zwan.bitrade.entity.LegalWalletWithdraw;
 import com.zwan.bitrade.entity.MemberWallet;
-import cn.ztuo.bitrade.entity.QLegalWalletWithdraw;
+import com.zwan.bitrade.entity.QLegalWalletWithdraw;
 import com.zwan.bitrade.service.Base.TopBaseService;
 import com.zwan.bitrade.util.BigDecimalUtils;
 

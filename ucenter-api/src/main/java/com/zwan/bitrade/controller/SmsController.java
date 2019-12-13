@@ -17,7 +17,7 @@ import org.springframework.data.redis.core.ValueOperations;
 import org.springframework.util.Assert;
 import org.springframework.web.bind.annotation.*;
 
-import cn.ztuo.bitrade.util.*;
+import com.zwan.bitrade.util.*;
 
 import javax.annotation.Resource;
 

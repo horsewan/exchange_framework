@@ -18,8 +18,8 @@ import com.zwan.bitrade.util.MessageResult;
 import com.zwan.bitrade.vo.MemberTransactionVO;
 
 import com.zwan.bitrade.controller.common.BaseAdminController;
-import cn.ztuo.bitrade.entity.QMember;
-import cn.ztuo.bitrade.entity.QMemberTransaction;
+import com.zwan.bitrade.entity.QMember;
+import com.zwan.bitrade.entity.QMemberTransaction;
 import com.zwan.bitrade.model.screen.MemberTransactionScreen;
 import com.zwan.bitrade.model.vo.MemberTransaction2ESVO;
 import lombok.extern.slf4j.Slf4j;

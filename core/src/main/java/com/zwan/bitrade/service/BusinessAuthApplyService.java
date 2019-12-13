@@ -11,7 +11,7 @@ import com.zwan.bitrade.dao.BusinessAuthApplyDao;
 import com.zwan.bitrade.entity.BusinessAuthApply;
 import com.zwan.bitrade.entity.BusinessAuthApplyDetailVO;
 import com.zwan.bitrade.entity.Member;
-import cn.ztuo.bitrade.entity.QBusinessAuthApply;
+import com.zwan.bitrade.entity.QBusinessAuthApply;
 import com.zwan.bitrade.service.Base.BaseService;
 import com.zwan.bitrade.util.MessageResult;
 import lombok.extern.slf4j.Slf4j;

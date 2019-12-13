@@ -30,7 +30,7 @@ import com.zwan.bitrade.constant.SysConstant;
 import com.zwan.bitrade.controller.common.BaseAdminController;
 import com.zwan.bitrade.entity.Admin;
 import com.zwan.bitrade.entity.Coin;
-import cn.ztuo.bitrade.entity.QRewardPromotionSetting;
+import com.zwan.bitrade.entity.QRewardPromotionSetting;
 import com.zwan.bitrade.entity.RewardPromotionSetting;
 import com.zwan.bitrade.service.CoinService;
 import com.zwan.bitrade.service.LocaleMessageSourceService;

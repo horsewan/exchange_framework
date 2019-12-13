@@ -9,7 +9,7 @@ import com.zwan.bitrade.constant.PageModel;
 import com.zwan.bitrade.constant.TransactionType;
 import com.zwan.bitrade.constant.WithdrawStatus;
 import com.zwan.bitrade.dao.WithdrawRecordDao;
-import cn.ztuo.bitrade.entity.*;
+import com.zwan.bitrade.entity.*;
 import com.zwan.bitrade.entity.MemberTransaction;
 import com.zwan.bitrade.entity.MemberWallet;
 import com.zwan.bitrade.entity.WithdrawRecord;
@@ -35,7 +35,7 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
-import static cn.ztuo.bitrade.entity.QWithdrawRecord.withdrawRecord;
+import static com.zwan.bitrade.entity.QWithdrawRecord.withdrawRecord;
 import static org.springframework.util.Assert.isTrue;
 import static org.springframework.util.Assert.notNull;
 

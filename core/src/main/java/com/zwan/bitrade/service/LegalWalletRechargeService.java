@@ -14,7 +14,7 @@ import com.querydsl.core.types.Predicate;
 import com.zwan.bitrade.dao.LegalWalletRechargeDao;
 import com.zwan.bitrade.entity.LegalWalletRecharge;
 import com.zwan.bitrade.entity.MemberWallet;
-import cn.ztuo.bitrade.entity.QLegalWalletRecharge;
+import com.zwan.bitrade.entity.QLegalWalletRecharge;
 import com.zwan.bitrade.util.BigDecimalUtils;
 import lombok.extern.slf4j.Slf4j;
 

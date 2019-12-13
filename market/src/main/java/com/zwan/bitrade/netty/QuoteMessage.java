@@ -339,7 +339,7 @@ public final class QuoteMessage {
 			}
 
 			// Construct using
-			// cn.ztuo.bitrade.netty.QuoteMessage.SimpleResponse.newBuilder()
+			// com.zwan.bitrade.netty.QuoteMessage.SimpleResponse.newBuilder()
 			private Builder() {
 				maybeForceBuilderInitialization();
 			}

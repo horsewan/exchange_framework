@@ -36,7 +36,7 @@ public interface CoinDao extends JpaRepository<Coin, String>, JpaSpecificationEx
     @Query("select a.name from Coin a")
     List<String> findAllName();
 
-    @Query(value = "select  new cn.ztuo.bitrade.dto.CoinDTO(a.name,a.unit) from Coin a")
+    @Query(value = "select  new com.zwan.bitrade.dto.CoinDTO(a.name,a.unit) from Coin a")
     List<CoinDTO> findAllNameAndUnit();
 
     @Query("select a.name from Coin a where a.hasLegal = true ")

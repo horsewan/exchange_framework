@@ -8,17 +8,17 @@
 	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop.xsd http://www.springframework.org/schema/data/jpa http://www.springframework.org/schema/data/jpa/spring-jpa.xsd http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx.xsd">
 
 	<context:component-scan
-		base-package="cn.ztuo.bitrade.dao" />
+		base-package="com.zwan.bitrade.dao" />
 	<context:component-scan
-		base-package="cn.ztuo.bitrade.service" />
+		base-package="com.zwan.bitrade.service" />
 	<context:component-scan
-		base-package="cn.ztuo.bitrade.config" />
+		base-package="com.zwan.bitrade.config" />
 	<context:component-scan
-		base-package="cn.ztuo.bitrade.dto" />
+		base-package="com.zwan.bitrade.dto" />
 	<context:component-scan
-		base-package="cn.ztuo.bitrade.entity" />
+		base-package="com.zwan.bitrade.entity" />
 	<context:component-scan
-		base-package="cn.ztuo.bitrade.es" />
+		base-package="com.zwan.bitrade.es" />
 	<aop:aspectj-autoproxy proxy-target-class="true" expose-proxy="true"/>
 	<bean id="dataSource"
 		class="com.alibaba.druid.pool.DruidDataSource" init-method="init"
@@ -60,14 +60,14 @@
 		class="com.alibaba.druid.filter.logging.Slf4jLogFilter">
 		<property name="statementExecutableSqlLogEnable" value="true" />
 	</bean>
-	<jpa:repositories base-package="cn.ztuo.bitrade.dao"
+	<jpa:repositories base-package="com.zwan.bitrade.dao"
 		repository-impl-postfix="Impl"
 		entity-manager-factory-ref="entityManagerFactory" />
 	<!-- 实体管理器 -->
 	<bean id="entityManagerFactory"
 		class="org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean">
 		<property name="dataSource" ref="dataSource" />
-		<property name="packagesToScan" value="cn.ztuo.bitrade" />
+		<property name="packagesToScan" value="com.zwan.bitrade" />
 
 		<property name="persistenceProvider">
 			<bean class="org.hibernate.ejb.HibernatePersistence" />

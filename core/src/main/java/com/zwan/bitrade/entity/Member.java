@@ -1,7 +1,7 @@
 package com.zwan.bitrade.entity;
 
 import cn.afterturn.easypoi.excel.annotation.Excel;
-import cn.ztuo.bitrade.constant.*;
+import com.zwan.bitrade.constant.*;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.annotation.JsonIgnore;

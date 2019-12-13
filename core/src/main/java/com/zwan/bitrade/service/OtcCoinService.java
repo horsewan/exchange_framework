@@ -23,7 +23,7 @@ import com.sparkframework.sql.model.Model;
 
 import com.zwan.bitrade.dao.OtcCoinDao;
 import com.zwan.bitrade.entity.OtcCoin;
-import cn.ztuo.bitrade.entity.QOtcCoin;
+import com.zwan.bitrade.entity.QOtcCoin;
 
 /**
  * @author GS

@@ -10,7 +10,7 @@ import com.zwan.bitrade.entity.SysPermission;
 import com.zwan.bitrade.service.SysPermissionService;
 import com.zwan.bitrade.util.MessageResult;
 
-import cn.ztuo.bitrade.entity.QSysPermission;
+import com.zwan.bitrade.entity.QSysPermission;
 
 import org.apache.shiro.authz.annotation.RequiresPermissions;
 import org.springframework.beans.factory.annotation.Autowired;

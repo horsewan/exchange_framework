@@ -41,7 +41,7 @@ import com.zwan.bitrade.controller.common.BaseAdminController;
 import com.zwan.bitrade.core.Menu;
 import com.zwan.bitrade.entity.Admin;
 import com.zwan.bitrade.entity.Department;
-import cn.ztuo.bitrade.entity.QAdmin;
+import com.zwan.bitrade.entity.QAdmin;
 import com.zwan.bitrade.entity.SysRole;
 import com.zwan.bitrade.service.AdminService;
 import com.zwan.bitrade.service.DepartmentService;

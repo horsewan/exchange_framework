@@ -9,7 +9,7 @@ import com.zwan.bitrade.service.TransferAddressService;
 import com.zwan.bitrade.util.MessageResult;
 import com.zwan.bitrade.util.PredicateUtils;
 
-import cn.ztuo.bitrade.entity.QTransferAddress;
+import com.zwan.bitrade.entity.QTransferAddress;
 import com.zwan.bitrade.model.screen.TransferAddressScreen;
 
 import org.apache.commons.lang.StringUtils;

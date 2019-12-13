@@ -1,6 +1,6 @@
 package com.zwan.bitrade.model.screen;
 
-import cn.ztuo.bitrade.constant.*;
+import com.zwan.bitrade.constant.*;
 import com.zwan.bitrade.constant.AdvertiseType;
 import com.zwan.bitrade.constant.BooleanEnum;
 import com.zwan.bitrade.constant.OrderStatus;

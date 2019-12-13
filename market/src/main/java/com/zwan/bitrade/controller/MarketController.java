@@ -6,11 +6,11 @@ import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
 
 import com.zwan.bitrade.constant.SysConstant;
-import cn.ztuo.bitrade.entity.*;
+import com.zwan.bitrade.entity.*;
 import com.zwan.bitrade.entity.*;
 import com.zwan.bitrade.processor.CoinProcessor;
 import com.zwan.bitrade.processor.CoinProcessorFactory;
-import cn.ztuo.bitrade.service.*;
+import com.zwan.bitrade.service.*;
 import com.zwan.bitrade.service.ExchangeCoinService;
 import com.zwan.bitrade.service.ExchangeTradeService;
 import com.zwan.bitrade.service.MarketService;

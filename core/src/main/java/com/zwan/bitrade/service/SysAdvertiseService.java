@@ -18,7 +18,7 @@ import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import static cn.ztuo.bitrade.entity.QSysAdvertise.sysAdvertise;
+import static com.zwan.bitrade.entity.QSysAdvertise.sysAdvertise;
 
 import java.util.List;
 

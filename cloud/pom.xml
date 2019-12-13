@@ -4,12 +4,12 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
         <artifactId>bitrade-parent</artifactId>
-        <groupId>cn.ztuo.bitrade</groupId>
+        <groupId>com.zwan.bitrade</groupId>
         <version>1.0</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>cn.ztuo.bitrade</groupId>
+    <groupId>com.zwan.bitrade</groupId>
     <artifactId>cloud</artifactId>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

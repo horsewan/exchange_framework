@@ -9,8 +9,8 @@ import com.querydsl.jpa.impl.JPAQuery;
 import com.zwan.bitrade.constant.PageModel;
 import com.zwan.bitrade.dao.AdminAccessLogDao;
 import com.zwan.bitrade.entity.AdminAccessLog;
-import cn.ztuo.bitrade.entity.QAdmin;
-import cn.ztuo.bitrade.entity.QAdminAccessLog;
+import com.zwan.bitrade.entity.QAdmin;
+import com.zwan.bitrade.entity.QAdminAccessLog;
 import com.zwan.bitrade.pagination.PageResult;
 import com.zwan.bitrade.service.Base.BaseService;
 

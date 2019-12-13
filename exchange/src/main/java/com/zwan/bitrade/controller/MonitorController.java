@@ -4,7 +4,7 @@ import com.alibaba.fastjson.JSONObject;
 
 import com.zwan.bitrade.Trader.CoinTrader;
 import com.zwan.bitrade.Trader.CoinTraderFactory;
-import cn.ztuo.bitrade.entity.*;
+import com.zwan.bitrade.entity.*;
 
 import com.zwan.bitrade.entity.ExchangeOrder;
 import com.zwan.bitrade.entity.ExchangeOrderDirection;
